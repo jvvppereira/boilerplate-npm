@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "João Pereira",
+	"description": "A project to test and improve backend skills",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
