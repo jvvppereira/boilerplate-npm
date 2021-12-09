@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "João Pereira",
+	"keywords": [ "test", "backend", "freecodecamp", "nodejs" ],
 	"description": "A project to test and improve backend skills",
 	"repository": {
 		"type": "git",
